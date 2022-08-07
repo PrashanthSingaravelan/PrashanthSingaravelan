@@ -2,7 +2,8 @@
 
 ## 🎓 I'm a CSE Student with Data Science Specialization in Vellore Institute of Technology.
 
-- 🔭 I’m currently working on Machine Learning Algorithsm | Data Analytics insights | Server Side Programming
+- 🔭 I’m currently working on Machine Learning Algorithsm | Data Analytics insights | Server Side Programming.
+- 📫 In Dept understanding of Basic Statistical Concept and its applications
 
 
 <!--
