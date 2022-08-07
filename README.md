@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Connect with me<img src="https://raw.githubusercontent.com/PrashanthSingaravelan/PrashanthSingaravelan/main/Handshake.gif" height="32px" >
+
+<a href="https://https://www.linkedin.com/in/prashanth-singaravelan-a17194195/"><img align="left"  width="24px" src="https://raw.githubusercontent.com/PrashanthSingaravelan/PrashanthSingaravelan/a9bb188d99ab3de48c53e3ed086b2c0fc0fb3aba/Linkedin.svg"/></a> &nbsp;&nbsp;
+
+# Connect with me <img src="https://raw.githubusercontent.com/PrashanthSingaravelan/PrashanthSingaravelan/main/Handshake.gif" height="32px">
+
+<a href="https://www.linkedin.com/in/aravinth-r-356a12194/"><img align="left"  width="24px" src="https://raw.githubusercontent.com/Aravinth1525/Aravinth1525/a9bb188d99ab3de48c53e3ed086b2c0fc0fb3aba/Linkedin.svg"/></a> &nbsp;&nbsp;
+
+
+# Skills
+
 # 📈 My Github Stats
 
 ![Prashanth's Github Stats](https://github-readme-stats.vercel.app/api?username=PrashanthSingaravelan&custom_title=PrashanthSingaravelan%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
@@ -28,4 +39,3 @@ Here are some ideas to get you started:
 ### Langauges Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthSingaravelan&layout=compact&theme=radical&langs_count=8)
-
