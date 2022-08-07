@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Connect with me<img src="https://raw.githubusercontent.com/PrashanthSingaravelan/PrashanthSingaravelan/main/Handshake.gif" height="32px" >
 
-<a href="https://www.linkedin.com/in/prashanth-singaravelan-a17194195/"><img align="left"  width="24px" src="https://raw.githubusercontent.com/PrashanthSingaravelan/PrashanthSingaravelan/a9bb188d99ab3de48c53e3ed086b2c0fc0fb3aba/Linkedin.svg"/></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prashanth-singaravelan-a17194195/"><img align="left"  width="24px" src="https://raw.githubusercontent.com/PrashanthSingaravelan/PrashanthSingaravelan/blob/main/Linkedin.svg"/></a> &nbsp;&nbsp;
 
 # Skills
 
