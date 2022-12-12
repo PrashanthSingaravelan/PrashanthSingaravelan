@@ -44,7 +44,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthSingaravelan&layout=compact&theme=radical&langs_count=8)
 
 # LeetCode Progress
-![Leetcode Stats](https://leetcard.jacoblin.cool/PrashanthSingaravelan?theme=dark)
-
 ![](https://leetcard.jacoblin.cool/PrashanthSingaravelan?ext=activity&theme=dark)
 
