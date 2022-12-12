@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 # LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/PrashanthSingaravelan?theme=dark)
 
-![](https://leetcard.jacoblin.cool/PrashanthSingaravelan?ext=activity)
+![](https://leetcard.jacoblin.cool/PrashanthSingaravelan?ext=activity&theme=dark)
 
