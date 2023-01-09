@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 # LeetCode Progress
 ![](https://leetcard.jacoblin.cool/PrashanthSingaravelan?ext=activity&theme=dark)
 
+# GeeksForGeeks Progress
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=prashanthsingar)](https://auth.geeksforgeeks.org/user/prashanthsingar)
+
