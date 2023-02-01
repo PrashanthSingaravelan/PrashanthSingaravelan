@@ -1,4 +1,4 @@
-### Hello this is Prashanth 👋
+## Hello this is Prashanth 👋
 
 ## 🎓 I'm a CSE Student with Data Science Specialization in Vellore Institute of Technology.
 
